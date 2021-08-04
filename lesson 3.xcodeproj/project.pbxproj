@@ -7,19 +7,39 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2452752C26BA815E00A07961 /* ActionButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2452752B26BA815E00A07961 /* ActionButtonView.swift */; };
+		2452753026BA835C00A07961 /* TimerButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2452752F26BA835C00A07961 /* TimerButtonView.swift */; };
+		2452753226BA84F300A07961 /* LogoutButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2452753126BA84F300A07961 /* LogoutButtonView.swift */; };
+		2452753526BA88BF00A07961 /* CounterSymbolView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2452753426BA88BF00A07961 /* CounterSymbolView.swift */; };
+		2452753726BA895200A07961 /* UserNameTextFieldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2452753626BA895200A07961 /* UserNameTextFieldView.swift */; };
+		2452753926BA8A8A00A07961 /* RegisterButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2452753826BA8A8A00A07961 /* RegisterButtonView.swift */; };
 		247EFDF826B866900028D2B3 /* lesson3App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 247EFDF726B866900028D2B3 /* lesson3App.swift */; };
 		247EFDFA26B866900028D2B3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 247EFDF926B866900028D2B3 /* ContentView.swift */; };
 		247EFDFC26B866950028D2B3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 247EFDFB26B866950028D2B3 /* Assets.xcassets */; };
 		247EFDFF26B866950028D2B3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 247EFDFE26B866950028D2B3 /* Preview Assets.xcassets */; };
+		247EFE0726B86C360028D2B3 /* TimeCounter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 247EFE0626B86C360028D2B3 /* TimeCounter.swift */; };
+		247EFE0926B875C50028D2B3 /* UserManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 247EFE0826B875C50028D2B3 /* UserManager.swift */; };
+		247EFE0B26B8775C0028D2B3 /* StarterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 247EFE0A26B8775C0028D2B3 /* StarterView.swift */; };
+		247EFE0D26B877EA0028D2B3 /* RegisterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 247EFE0C26B877EA0028D2B3 /* RegisterView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		247EFDF426B866900028D2B3 /* lesson3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = lesson3.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2452752B26BA815E00A07961 /* ActionButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionButtonView.swift; sourceTree = "<group>"; };
+		2452752F26BA835C00A07961 /* TimerButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerButtonView.swift; sourceTree = "<group>"; };
+		2452753126BA84F300A07961 /* LogoutButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogoutButtonView.swift; sourceTree = "<group>"; };
+		2452753426BA88BF00A07961 /* CounterSymbolView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounterSymbolView.swift; sourceTree = "<group>"; };
+		2452753626BA895200A07961 /* UserNameTextFieldView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserNameTextFieldView.swift; sourceTree = "<group>"; };
+		2452753826BA8A8A00A07961 /* RegisterButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterButtonView.swift; sourceTree = "<group>"; };
+		247EFDF426B866900028D2B3 /* lesson 3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "lesson 3.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		247EFDF726B866900028D2B3 /* lesson3App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lesson3App.swift; sourceTree = "<group>"; };
 		247EFDF926B866900028D2B3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		247EFDFB26B866950028D2B3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		247EFDFE26B866950028D2B3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		247EFE0026B866950028D2B3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		247EFE0626B86C360028D2B3 /* TimeCounter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeCounter.swift; sourceTree = "<group>"; };
+		247EFE0826B875C50028D2B3 /* UserManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserManager.swift; sourceTree = "<group>"; };
+		247EFE0A26B8775C0028D2B3 /* StarterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarterView.swift; sourceTree = "<group>"; };
+		247EFE0C26B877EA0028D2B3 /* RegisterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -33,6 +53,54 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2452752726BA7E0B00A07961 /* Objects */ = {
+			isa = PBXGroup;
+			children = (
+				247EFE0626B86C360028D2B3 /* TimeCounter.swift */,
+				247EFE0826B875C50028D2B3 /* UserManager.swift */,
+			);
+			path = Objects;
+			sourceTree = "<group>";
+		};
+		2452752826BA7E3300A07961 /* Screens */ = {
+			isa = PBXGroup;
+			children = (
+				247EFDF926B866900028D2B3 /* ContentView.swift */,
+				247EFE0A26B8775C0028D2B3 /* StarterView.swift */,
+				247EFE0C26B877EA0028D2B3 /* RegisterView.swift */,
+			);
+			path = Screens;
+			sourceTree = "<group>";
+		};
+		2452752926BA7F9700A07961 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				2452753326BA887B00A07961 /* Buttons */,
+				2452753426BA88BF00A07961 /* CounterSymbolView.swift */,
+				2452753626BA895200A07961 /* UserNameTextFieldView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		2452752A26BA80F500A07961 /* Application */ = {
+			isa = PBXGroup;
+			children = (
+				247EFDF726B866900028D2B3 /* lesson3App.swift */,
+			);
+			path = Application;
+			sourceTree = "<group>";
+		};
+		2452753326BA887B00A07961 /* Buttons */ = {
+			isa = PBXGroup;
+			children = (
+				2452752B26BA815E00A07961 /* ActionButtonView.swift */,
+				2452752F26BA835C00A07961 /* TimerButtonView.swift */,
+				2452753126BA84F300A07961 /* LogoutButtonView.swift */,
+				2452753826BA8A8A00A07961 /* RegisterButtonView.swift */,
+			);
+			path = Buttons;
+			sourceTree = "<group>";
+		};
 		247EFDEB26B866900028D2B3 = {
 			isa = PBXGroup;
 			children = (
@@ -44,7 +112,7 @@
 		247EFDF526B866900028D2B3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				247EFDF426B866900028D2B3 /* lesson3.app */,
+				247EFDF426B866900028D2B3 /* lesson 3.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -52,8 +120,10 @@
 		247EFDF626B866900028D2B3 /* lesson3 */ = {
 			isa = PBXGroup;
 			children = (
-				247EFDF726B866900028D2B3 /* lesson3App.swift */,
-				247EFDF926B866900028D2B3 /* ContentView.swift */,
+				2452752A26BA80F500A07961 /* Application */,
+				2452752926BA7F9700A07961 /* Views */,
+				2452752726BA7E0B00A07961 /* Objects */,
+				2452752826BA7E3300A07961 /* Screens */,
 				247EFDFB26B866950028D2B3 /* Assets.xcassets */,
 				247EFE0026B866950028D2B3 /* Info.plist */,
 				247EFDFD26B866950028D2B3 /* Preview Content */,
@@ -72,9 +142,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		247EFDF326B866900028D2B3 /* lesson3 */ = {
+		247EFDF326B866900028D2B3 /* lesson 3 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 247EFE0326B866950028D2B3 /* Build configuration list for PBXNativeTarget "lesson3" */;
+			buildConfigurationList = 247EFE0326B866950028D2B3 /* Build configuration list for PBXNativeTarget "lesson 3" */;
 			buildPhases = (
 				247EFDF026B866900028D2B3 /* Sources */,
 				247EFDF126B866900028D2B3 /* Frameworks */,
@@ -84,9 +154,9 @@
 			);
 			dependencies = (
 			);
-			name = lesson3;
+			name = "lesson 3";
 			productName = lesson3;
-			productReference = 247EFDF426B866900028D2B3 /* lesson3.app */;
+			productReference = 247EFDF426B866900028D2B3 /* lesson 3.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -103,7 +173,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 247EFDEF26B866900028D2B3 /* Build configuration list for PBXProject "lesson3" */;
+			buildConfigurationList = 247EFDEF26B866900028D2B3 /* Build configuration list for PBXProject "lesson 3" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -116,7 +186,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				247EFDF326B866900028D2B3 /* lesson3 */,
+				247EFDF326B866900028D2B3 /* lesson 3 */,
 			);
 		};
 /* End PBXProject section */
@@ -138,8 +208,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2452753726BA895200A07961 /* UserNameTextFieldView.swift in Sources */,
+				247EFE0726B86C360028D2B3 /* TimeCounter.swift in Sources */,
+				2452753526BA88BF00A07961 /* CounterSymbolView.swift in Sources */,
+				2452752C26BA815E00A07961 /* ActionButtonView.swift in Sources */,
+				2452753026BA835C00A07961 /* TimerButtonView.swift in Sources */,
+				2452753226BA84F300A07961 /* LogoutButtonView.swift in Sources */,
+				247EFE0B26B8775C0028D2B3 /* StarterView.swift in Sources */,
 				247EFDFA26B866900028D2B3 /* ContentView.swift in Sources */,
+				247EFE0D26B877EA0028D2B3 /* RegisterView.swift in Sources */,
+				247EFE0926B875C50028D2B3 /* UserManager.swift in Sources */,
 				247EFDF826B866900028D2B3 /* lesson3App.swift in Sources */,
+				2452753926BA8A8A00A07961 /* RegisterButtonView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -309,7 +389,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		247EFDEF26B866900028D2B3 /* Build configuration list for PBXProject "lesson3" */ = {
+		247EFDEF26B866900028D2B3 /* Build configuration list for PBXProject "lesson 3" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				247EFE0126B866950028D2B3 /* Debug */,
@@ -318,7 +398,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		247EFE0326B866950028D2B3 /* Build configuration list for PBXNativeTarget "lesson3" */ = {
+		247EFE0326B866950028D2B3 /* Build configuration list for PBXNativeTarget "lesson 3" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				247EFE0426B866950028D2B3 /* Debug */,
